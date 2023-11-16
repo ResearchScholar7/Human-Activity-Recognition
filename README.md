@@ -1,3 +1,10 @@
 # Human-Activity-Recognition
 
-This repository includes a Google Colab notebook and associated resources showcasing the development of a robust and precise model for human activity classification, utilizing Long Short-Term Memory (LSTM) networks with sensor data.
+This repository contains a Convolutional Neural Network (CNN) implementation for Human Activity Recognition, trained and tested on the HMDB51 dataset. The model leverages transfer learning for feature extraction, demonstrating accurate classification of human activities. The code includes data preprocessing, model training, and evaluation scripts.
+
+Key Features:
+
+CNN-based model for Human Activity Recognition
+Data augmentation for improved performance
+HMDB51 dataset preprocessing scripts
+Easy-to-follow implementation in TensorFlow and Keras
